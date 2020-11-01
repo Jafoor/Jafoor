@@ -5,7 +5,11 @@
 ## I'm a Student, Developer, and Compitive Programmer!!
 
 
+<<<<<<< HEAD
 - 🔭 I’m currently working on a [Adiva Graphics][work]!
+=======
+- 🔭 I’m currently working on a [Adiva Graphics]![adivagraphics] 
+>>>>>>> 0270a97d315a0e7582909778266d63ccb03086b8
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -51,3 +55,4 @@
 [twitter]: https://twitter.com/JF_Saleh
 [instagram]: https://instagram.com/Abu_Jafor_Mohammad_Saleh
 [linkedin]: https://linkedin.com/in/abujaformohammadsaleh
+[adivagraphics]: https://adivagraphics.com
