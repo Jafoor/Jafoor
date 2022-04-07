@@ -4,7 +4,7 @@
 
 ## I'm a Student, Developer, and Compitive Programmer!!
 
-- 🔭 I’m currently working on a [Adiva Graphics][work]!
+- 🔭 Ex programmer of [Adiva Graphics][work]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Writing thesis on Software Testing using AFL
