@@ -4,10 +4,10 @@
 
 ## I'm a Student, Developer, and Compitive Programmer!!
 
-- 🔭 Ex programmer of [Adiva Graphics][work]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Full Stack Developer of [Spring Rain Private Ltd.][work]!
+- 🌱 I’m currently DynamoDB, Koa.js
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Writing thesis on Software Testing using AFL
+- 🥅 2023 Goals: Don't say No to learn Anything.
 - ⚡ Fun fact: I love to reading, travelling and gossiping. 
 
 
@@ -21,13 +21,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Heroku" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />]()
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
+[<img align="left" alt="React.js" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />]()
+[<img align="left" alt="Node.js" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" />]()
+[<img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />]()
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 [<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />]()
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
@@ -46,7 +48,7 @@
 
 </details>
 
-[work]: https://www.adivagraphics.com/
+[work]: https://springrain.io/
 [twitter]: https://twitter.com/JF_Saleh
 [instagram]: https://instagram.com/Abu_Jafor_Mohammad_Saleh
 [linkedin]: https://linkedin.com/in/abujaformohammadsaleh
