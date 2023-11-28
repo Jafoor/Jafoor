@@ -4,8 +4,8 @@
 
 ## I'm a Student, Developer, and Compitive Programmer!!
 
-- 🔭 Full Stack Developer of [Spring Rain Private Ltd.][work]!
-- 🌱 I’m currently DynamoDB, Koa.js
+- 🔭 Software Engineer at [Tiger IT Limited][tigerit]!
+- 🌱 I’m currently Angular, Next.js, React, MQTT, IndexDB, Node.js, Express.js
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Don't say No to learn Anything.
 - ⚡ Fun fact: I love to reading, travelling and gossiping. 
@@ -47,8 +47,8 @@
   <img align="left" alt="Jafor's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jafoor&show_icons=true&hide_border=true" />
 
 </details>
-
-[work]: https://springrain.io/
+[tigerit]: https://www.tigerit.com/
+[springrain]: https://springrain.io/
 [twitter]: https://twitter.com/JF_Saleh
 [instagram]: https://instagram.com/Abu_Jafor_Mohammad_Saleh
 [linkedin]: https://linkedin.com/in/abujaformohammadsaleh
