@@ -4,7 +4,7 @@
 
 ## I'm a Student, Developer, and Compitive Programmer!!
 
-- 🔭 Software Engineer at [Tiger IT Limited][tigerit]!
+- 🔭 Software Engineer at [Tiger IT Limited][tigerit]
 - 🌱 I’m currently Angular, Next.js, React, MQTT, IndexDB, Node.js, Express.js
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Don't say No to learn Anything.
