@@ -2,8 +2,8 @@
 
 ## I'm Software Engineer.
 
-- 🔭 Software Engineer at Tiger IT Limited
-- 🌱 I’m currently Angular, Next.js, React, MQTT, IndexDB, Node.js, Express.js
+- 🔭 Software Engineer at TechnoNext Ltd (Foodi)
+- 🌱 I’m currently Node.js, Express.js, Microservice, MongoDB, GRPC, MQTT, RabbitMQ, Redis, PostGres
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Large Scale Application Design.
+- 🥅 2025 Goals: Large Scale Application System Design.
 - ⚡ Fun fact: I love to reading, travelling and gossiping.
